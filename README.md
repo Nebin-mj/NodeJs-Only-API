@@ -5,6 +5,7 @@
 `npm i` (to install required node modules)  
 `npm run dev` (to start it with nodemon)  
 `npm start` (to start it with node)
+App will be available on http://localhost:5000  
 
 ## Routes
 
